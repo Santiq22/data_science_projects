@@ -1,0 +1,5 @@
+[ 2025-01-11 12:13:48,117 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2025-01-11 12:13:48,809 ] 34 root - INFO - Entered the data ingestion method or component
+[ 2025-01-11 12:13:53,101 ] 39 root - INFO - Read the dataset as a pandas Data Frame object
+[ 2025-01-11 12:14:02,617 ] 48 root - INFO - Training and validation split initiated
+[ 2025-01-11 12:14:12,948 ] 55 root - INFO - Ingestion of the data completed

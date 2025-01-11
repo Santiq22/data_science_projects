@@ -7,7 +7,7 @@ Created on Sun Sep 29 15:36:20 2024
 """
 # ================================ Packages ================================== #
 import sys
-from src.logger import logging
+from logger import logging
 # ============================================================================ #
 
 # ========================= Error message function =========================== #
